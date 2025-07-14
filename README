@@ -1,0 +1,12 @@
+Hello,
+Welcome to HellGates (CTF).
+This is mostly an experiment to know if it's even possible to crack such programs,
+as far I know there's no existing tools that are able to do what I think (yet).
+You might find some side channels attacks that I"m aware of, but you might not get the full experience.
+
+Before starting the program,
+
+I'd like to let you know that you might need SDL3 and SDL3_mixer for audio output,
+but it's not a requirement, it's mostly for getting more fun to do it, the CTF can work without it.
+
+Thanks for sharing a part of your sanity for me.
