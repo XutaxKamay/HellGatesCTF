@@ -3,22 +3,32 @@ This is my first public challenge, I believe it to be insanely hard (not full ti
 Who knows maybe you'll crack it in few hours. (or less)
 You might be able to find find some side channels attacks (if they do exist) that I'm aware of, but you might not get the full experience.
 
-Optional: install SDL3 & SDL3 mixer on your computer.
+Optional : install SDL3 & SDL3 mixer on your computer.
 
-Here's the context:
+Here's the context :
 
-    A guy called xutaxkamay with 2 decades of unproven programming experience and copy paster expert since he's 10, thinks that nobody can crack "his" "new" obfuscation technique, hoping to show the world a groundbreaking software protection that even NSA can't break.
-    He's very biased, very agressive and more importantly his ego is bigger than what is observable in the current universe and maybe above that.
+    A guy called xutaxkamay with 2 decades of unproven programming experience and copy paster expert since he's 10,
+    thinks that nobody can crack "his" "new" obfuscation technique,
+    hoping to show the world a groundbreaking software protection that even NSA can't break.
 
-    He likes a lot music though, so he left a bit of cool music he found on the internet, hoping to give some nostalgia to some if someone runs his program.
-    To his grand mercy, he gives a hint though, since it is too slow to even type the first letter in the hell gate, saying that you should try first to make it less slow to type in.
+    He's very biased, very agressive and more importantly his ego is bigger than what is observable in the current universe,
+    and maybe above that.
+
+    He likes a lot music though,
+    so he left a bit of cool music he found on the internet,
+    hoping to give some nostalgia to some if someone runs his program.
+
+    To his grand mercy,
+    he gives a hint though,
+    since it is too slow to even type the first letter in the hell gate,
+    saying that you should try first to make it less slow to type in.
 
     Anyway, can you teach him a lesson what is an expert reverse-engineer please ?
     Just to calm down his delusion.
 
 
-Goal: Find the right sequence of letters to enter in the (fake) LCD. (it works like cheat code)
-Reward: I'll try to reward in XMR the first person who finds the password, he can send me the flag if he wishes to. (admin@xutaxkamay.com)
+Goal : Find the right sequence of letters to enter in the (fake) LCD. (it works like cheat code)
+Reward : I'll try to reward in XMR the first person who finds the password, he can send me the flag if he wishes to. (admin@xutaxkamay.com)
 
 
 Thank you for sharing a part of your (in)sanity with me !
